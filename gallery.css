@@ -1,0 +1,19 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwia9LSQpufiAhVafX0KHauzALcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2FOak-Yellow-Wood-Grain-Looks-Contact-Self-Adhesive-Peel-Stick-Paper-%2F172224997397&psig=AOvVaw0gdtIocgJpJeNvnDRRLI8g&ust=1560542784298413") cover;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
